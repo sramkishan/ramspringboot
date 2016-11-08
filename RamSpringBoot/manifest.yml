@@ -1,0 +1,6 @@
+---
+applications:
+- name: RamSpringBoot1
+  memory: 512M
+  host: RamSpringBoot1
+  domain: apps.px-01.cf.t-mobile.com
